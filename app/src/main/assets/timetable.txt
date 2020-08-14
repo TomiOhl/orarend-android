@@ -1,0 +1,22 @@
+monday
+10-12_Algoritmusok és adatszerkezetek II._1_Dr. Berend Gábor Iván_Kiss Árpád tanterem
+14-16_Programozási nyelvek_1_Dr. Kertész Attila_TIK Alagsor
+16-18_Multimédia_1_Dr. Nyúl László Gábor_TIK Alagsor
+18-20_Mobil alkalmazásfejlesztés gyak._2_Eszes Norbert_Irinyi 222 PC-terem
+tuesday
+10-12_Formális nyelvek_1_Fülöp Zoltán Dr._Kiss Árpád tanterem
+12-13_Multimédia gyak._2_Katona Melinda_Irinyi 224 PC-terem
+14-16_Adatbázis alapú rendszerek_1_Dr. Balázs Péter Attila, Dr. Németh Gábor_TIK Kongresszusi terem
+16-17_Programozási nyelvek gyak._2_Horváth Ferenc_Irinyi 224 PC-terem
+17-18_Algoritmusok és adatszerkezetek II. gyak._2_Kardos Péter_Irinyi 212 tanterem
+18-20_Alkalmazásfejlesztés I. gyak._2_Tóth Zoltán_Irinyi 222 PC-terem
+wednesday
+8-9_Mobil alkalmazásfejlesztés_1_Bilicki Vilmos Dr._Kiss Árpád tanterem
+9-10_Webfejlesztési keretrendszerek_1_Bilicki Vilmos Dr._Kiss Árpád tanterem
+10-12_Adatbázis alapú rendszerek gyak._2_Bodnár Péter_Irinyi 222 PC-terem
+12-13_Formális nyelvek gyak._2_Kaposvári Dániel_Irinyi 223 PC-terem
+14-16_Bevezetés a mobilkommunikációba_1_Balogh Csaba_TIK Kongresszusi terem
+15-16_Alkalmazásfejlesztés I._1_Siket István Dr._TIK Alagsor
+thursday
+12-14_Webfejlesztési keretrendszerek gyak._2_Kokrehel Gracijan_Irinyi 222 PC-terem
+friday

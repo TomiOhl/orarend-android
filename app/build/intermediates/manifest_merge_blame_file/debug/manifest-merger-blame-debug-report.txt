@@ -1,0 +1,69 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tomi.ohl.szte.orarend"
+4    android:versionCode="3"
+5    android:versionName="2.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:5:5-31:23
+12        android:allowBackup="true"
+12-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] /home/tomi_ohl/.gradle/caches/transforms-2/files-2.1/65288fada49b0b6c64631011b3fa4627/core-1.1.0/AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:7:9-43
+17        android:label="@string/app_name"
+17-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:9:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:8:9-54
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme"
+20-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:10:9-40
+21        android:versionCode="3"
+21-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:11:9-32
+22        android:versionName="2.2" >
+22-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:12:9-34
+23        <activity
+23-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:14:5-21:19
+24            android:name="com.tomi.ohl.szte.orarend.SplashActivity"
+24-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:15:9-39
+25            android:theme="@style/SplashTheme" >
+25-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:16:9-43
+26            <intent-filter>
+26-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:17:6-20:22
+27                <action android:name="android.intent.action.MAIN" />
+27-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:18:7-58
+27-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:18:15-56
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:19:7-67
+29-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:19:17-64
+30            </intent-filter>
+31        </activity>
+32        <activity
+32-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:23:9-30:20
+33            android:name="com.tomi.ohl.szte.orarend.TimeTableActivity"
+33-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:24:13-46
+34            android:label="@string/app_name" >
+34-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:25:13-45
+35            <intent-filter>
+35-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:26:13-29:29
+36                <action android:name="android.intent.action.VIEW" />
+36-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:27:17-69
+36-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:27:25-66
+37                <action android:name="android.intent.action.MAIN" />
+37-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:18:7-58
+37-->/media/Acer/Users/Tomi_Ohl/Dokumentumok/Android Studio/Órarend/app/src/main/AndroidManifest.xml:18:15-56
+38            </intent-filter>
+39        </activity>
+40    </application>
+41
+42</manifest>
