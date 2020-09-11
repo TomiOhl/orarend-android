@@ -1,22 +1,17 @@
 monday
-10-12_Algoritmusok és adatszerkezetek II._1_Dr. Berend Gábor Iván_Kiss Árpád tanterem
-14-16_Programozási nyelvek_1_Dr. Kertész Attila_TIK Alagsor
-16-18_Multimédia_1_Dr. Nyúl László Gábor_TIK Alagsor
-18-20_Mobil alkalmazásfejlesztés gyak._2_Eszes Norbert_Irinyi 222 PC-terem
+14-16_Döntéselméleti rendszerek_1_Pluhár András Sándor Dr._CooSpace (nem kötelező)
+16-18_Keresztplatformos mobilfejlesztés (konzultáció)_2_Tengeri Dávid, Gergely Tamás Dr._Google Meet + CooSpace (nem kötelező)
+17-19_Alkalmazásfejlesztés II. gyak. (konzultáció)_2_Gajdács Enikő_CooSpace (nem kötelező)
 tuesday
-10-12_Formális nyelvek_1_Fülöp Zoltán Dr._Kiss Árpád tanterem
-12-13_Multimédia gyak._2_Katona Melinda_Irinyi 224 PC-terem
-14-16_Adatbázis alapú rendszerek_1_Dr. Balázs Péter Attila, Dr. Németh Gábor_TIK Kongresszusi terem
-16-17_Programozási nyelvek gyak._2_Horváth Ferenc_Irinyi 224 PC-terem
-17-18_Algoritmusok és adatszerkezetek II. gyak._2_Kardos Péter_Irinyi 212 tanterem
-18-20_Alkalmazásfejlesztés I. gyak._2_Tóth Zoltán_Irinyi 222 PC-terem
+9-10_Alkalmazásfejlesztés II._1_Dombi József Dániel Dr._CooSpace vagy Discord (nem kötelező)
+10-12_Bonyolultságelmélet (konzultáció)_1_Dr. Iván Szabolcs_YouTube + Discord (nem kötelező)
+12-14_Szoftvertesztelés alapjai_1_Beszédes Árpád Dr._GoToMeeting + CooSpace
+13-14_Döntéselméleti rendszerek gyak._2_Pluhár András Sándor Dr._CooSpace
 wednesday
-8-9_Mobil alkalmazásfejlesztés_1_Bilicki Vilmos Dr._Kiss Árpád tanterem
-9-10_Webfejlesztési keretrendszerek_1_Bilicki Vilmos Dr._Kiss Árpád tanterem
-10-12_Adatbázis alapú rendszerek gyak._2_Bodnár Péter_Irinyi 222 PC-terem
-12-13_Formális nyelvek gyak._2_Kaposvári Dániel_Irinyi 223 PC-terem
-14-16_Bevezetés a mobilkommunikációba_1_Balogh Csaba_TIK Kongresszusi terem
-15-16_Alkalmazásfejlesztés I._1_Siket István Dr._TIK Alagsor
+11-12_Bonyolultságelmélet gyak. (konzultáció)._2_Gelle Kitti Erzsébet_CooSpace (nem kötelező)
+14-16_Mesterséges intelligencia I. (konzultáció)_1_Jelasity Márk Dr._CooSpace (nem kötelező)
 thursday
-12-14_Webfejlesztési keretrendszerek gyak._2_Kokrehel Gracijan_Irinyi 222 PC-terem
+11-13_Szoftvertesztelés alapjai gyak._2_Szatmári Attila_CooSpace
+14-16_Szoftverfejlesztés az egészségiparban_1_Laczi Balázs, Tóth Zoltán Gábor_CooSpace
+16-17_Mesterséges intelligencia I. gyak._2_Vetráb Mercedes_CooSpace
 friday

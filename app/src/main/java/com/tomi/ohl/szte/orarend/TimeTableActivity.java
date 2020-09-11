@@ -19,6 +19,7 @@ import android.widget.ExpandableListAdapter;
 import android.widget.ExpandableListView;
 import android.widget.ListView;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatDelegate;
 import androidx.browser.customtabs.CustomTabsClient;
@@ -119,7 +120,7 @@ public class TimeTableActivity extends AppCompatActivity {
         //Chrome custom tabs
         mCustomTabsServiceConnection = new CustomTabsServiceConnection() {
             @Override
-            public void onCustomTabsServiceConnected(ComponentName componentName, CustomTabsClient customTabsClient) {
+            public void onCustomTabsServiceConnected(@NonNull ComponentName componentName, @NonNull CustomTabsClient customTabsClient) {
                 mCustomTabsClient= customTabsClient;
                 mCustomTabsClient.warmup(0L);
                 mCustomTabsSession = mCustomTabsClient.newSession(null);
@@ -179,7 +180,7 @@ public class TimeTableActivity extends AppCompatActivity {
                 .setTitle(targy)
                 .setMessage("Időpont: " + ido
                         +   "\n" + eloadas + ": " + tanar
-                        +   "\nTerem: " + terem)
+                        +   "\nHelyszín: " + terem)
                 .setNegativeButton(android.R.string.ok, new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int id) {
                         dialog.cancel();
@@ -213,7 +214,7 @@ public class TimeTableActivity extends AppCompatActivity {
                         .setCancelable(true)
                         .setTitle("Névjegy")
                         .setMessage("Hallgató: Öhlsläger Tamás\n"
-                                + "Érvényesség: 2019/20/2\n"
+                                + "Érvényesség: 2020/21/1\n"
                                 + "Alkalmazásverzió: " + verzio)
                         .setNegativeButton(android.R.string.ok, new DialogInterface.OnClickListener() {
                             public void onClick(DialogInterface dialog, int id) {

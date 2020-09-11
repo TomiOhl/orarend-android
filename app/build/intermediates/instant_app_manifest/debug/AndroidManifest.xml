@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.tomi.ohl.szte.orarend"
     android:targetSandboxVersion="2"
-    android:versionCode="3"
-    android:versionName="2.2" >
+    android:versionCode="4"
+    android:versionName="3.1" >
 
     <uses-sdk
         android:minSdkVersion="23"
@@ -19,8 +19,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:testOnly="true"
         android:theme="@style/AppTheme"
-        android:versionCode="3"
-        android:versionName="2.2" >
+        android:versionCode="4"
+        android:versionName="3.1" >
         <activity
             android:name="com.tomi.ohl.szte.orarend.SplashActivity"
             android:theme="@style/SplashTheme" >
