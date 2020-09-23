@@ -8,7 +8,7 @@ tuesday
 12-14_Szoftvertesztelés alapjai_1_Beszédes Árpád Dr._GoToMeeting + CooSpace
 13-14_Döntéselméleti rendszerek gyak._2_Pluhár András Sándor Dr._CooSpace
 wednesday
-11-12_Bonyolultságelmélet gyak. (konzultáció)._2_Gelle Kitti Erzsébet_CooSpace (nem kötelező)
+11-12_Bonyolultságelmélet gyak. (konzultáció)_2_Gelle Kitti Erzsébet_CooSpace (nem kötelező)
 14-16_Mesterséges intelligencia I. (konzultáció)_1_Jelasity Márk Dr._CooSpace (nem kötelező)
 thursday
 11-13_Szoftvertesztelés alapjai gyak._2_Szatmári Attila_CooSpace

@@ -3,6 +3,7 @@
 
 	<item name="white" type="color">#ffffffff</item>
 	<item name="black" type="color">#ff000000</item>
+	<item name="darkBg" type="color">#ff202124</item>
 	<item name="colorPrimary" type="color">@color/white</item>
 	<item name="colorPrimaryDark" type="color">@color/white</item>
 	<item name="colorAccent" type="color">#ff4885ed</item>
