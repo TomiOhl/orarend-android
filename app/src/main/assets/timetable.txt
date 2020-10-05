@@ -12,6 +12,5 @@ wednesday
 14-16_Mesterséges intelligencia I. (konzultáció)_1_Jelasity Márk Dr._CooSpace (nem kötelező)
 thursday
 11-13_Szoftvertesztelés alapjai gyak._2_Szatmári Attila_CooSpace
-14-16_Szoftverfejlesztés az egészségiparban_1_Laczi Balázs, Tóth Zoltán Gábor_CooSpace
 16-17_Mesterséges intelligencia I. gyak._2_Vetráb Mercedes_CooSpace
 friday
